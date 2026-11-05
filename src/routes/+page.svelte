@@ -1,2 +1,13 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+
+<div class="container mt-5">
+  <h1>Willkommen bei Movie Watchlist</h1>
+
+  <p>
+    Entdecke spannende Filme und erstelle
+    deine persönliche Filmübersicht.
+  </p>
+
+  <a href="/movies" class="btn btn-primary">
+    Filme entdecken
+  </a>
+</div>
