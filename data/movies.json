@@ -2,7 +2,7 @@
   "_id": {
     "$oid": "6630e72c95e12055f661ff13"
   },
-  "title": "Das Geheimnis von Altura",
+  "title": "Neonjagd um Mitternacht",
   "year": 2024,
   "length": "120 Minuten",
   "actors": [
@@ -10,14 +10,14 @@
     "Maximilian Schröder",
     "Sophia Neumann"
   ],
-  "poster": "/images/Altura.png",
+  "poster": "/images/neonjagd-um-mitternacht.png",
   "watchlist": false
 },
 {
   "_id": {
     "$oid": "6630e72c95e12055f661ff14"
   },
-  "title": "Sternenwanderer",
+  "title": "Das Haus ohne Fenster",
   "year": 2025,
   "length": "143 Minuten",
   "actors": [
@@ -25,14 +25,14 @@
     "Julian Becker",
     "Lara Weber"
   ],
-  "poster": "/images/Sternenwanderer.png",
+  "poster": "/images/das-haus-ohne-fenster.png",
   "watchlist": false
 },
 {
   "_id": {
     "$oid": "6630e72c95e12055f661ff15"
   },
-  "title": "Flüsternde Schatten",
+  "title": "Kapitän Kakaos Luftballon",
   "year": 2023,
   "length": "105 Minuten",
   "actors": [
@@ -40,14 +40,14 @@
     "Niklas Hoffmann",
     "Anna Meyer"
   ],
-  "poster": "/images/Schatten.png",
+  "poster": "/images/kapitaen-kakaos-luftballon.png",
   "watchlist": false
 },
 {
   "_id": {
     "$oid": "6630e72c95e12055f661ff16"
   },
-  "title": "Die letzte Ebene",
+  "title": "Die letzte Botin von Venedig",
   "year": 2026,
   "length": "132 Minuten",
   "actors": [
@@ -55,14 +55,14 @@
     "Sarah Bauer",
     "Leon Schwarz"
   ],
-  "poster": "/images/Ebene.png",
+  "poster": "/images/die-letzte-botin-von-venedig.png",
   "watchlist": false
 },
 {
   "_id": {
     "$oid": "6630e72c95e12055f661ff17"
   },
-  "title": "Chroniken von Morgen",
+  "title": "Orbit 7: Aufbruch ins Unbekannte",
   "year": 2027,
   "length": "117 Minuten",
   "actors": [
@@ -70,14 +70,14 @@
     "Tobias Lang",
     "Lisa Braun"
   ],
-  "poster": "/images/Chroniken.png",
+  "poster": "/images/orbit-7-aufbruch-ins-unbekannte.png",
   "watchlist": false
 },
 {
   "_id": {
     "$oid": "6630e72c95e12055f661ff18"
   },
-  "title": "Die Wächter des Verborgenen",
+  "title": "Der Mann im Regen",
   "year": 2028,
   "length": "150 Minuten",
   "actors": [
@@ -85,14 +85,14 @@
     "Charlotte Koch",
     "Alexander Krause"
   ],
-  "poster": "/images/Waechter.png",
+  "poster": "/images/der-mann-im-regen.png",
   "watchlist": false
 },
 {
   "_id": {
     "$oid": "6630e72c95e12055f661ff19"
   },
-  "title": "Nebel über Neustadt",
+  "title": "Sommer hinter der Kurve",
   "year": 2029,
   "length": "98 Minuten",
   "actors": [
@@ -100,14 +100,14 @@
     "Simon Wolf",
     "Julia Hartmann"
   ],
-  "poster": "/images/Nebel.png",
+  "poster": "/images/sommer-hinter-der-kurve.png",
   "watchlist": false
 },
 {
   "_id": {
     "$oid": "6630e72c95e12055f661ff1a"
   },
-  "title": "Das Lächeln der Medusa",
+  "title": "Das Erntefest",
   "year": 2030,
   "length": "136 Minuten",
   "actors": [
@@ -115,14 +115,14 @@
     "Katharina Schmid",
     "Tim Schneider"
   ],
-  "poster": "/images/Medusa.png",
+  "poster": "/images/das-erntefest.png",
   "watchlist": false
 },
 {
   "_id": {
     "$oid": "6630e72c95e12055f661ff1b"
   },
-  "title": "Echo des Vergessens",
+  "title": "Letzte Runde Berlin",
   "year": 2022,
   "length": "123 Minuten",
   "actors": [
@@ -130,14 +130,14 @@
     "Fabian Engel",
     "Lea Frank"
   ],
-  "poster": "/images/Echo.png",
+  "poster": "/images/letzte-runde-berlin.png",
   "watchlist": false
 },
 {
   "_id": {
     "$oid": "6630e72c95e12055f661ff1c"
   },
-  "title": "Der Traum von Unendlichkeit",
+  "title": "Archiv der Sterne",
   "year": 2024,
   "length": "140 Minuten",
   "actors": [
@@ -145,6 +145,6 @@
     "Mia Sommer",
     "Jan Schmidt"
   ],
-  "poster": "/images/Traum.png",
+  "poster": "/images/archiv-der-sterne.png",
   "watchlist": false
 }]
